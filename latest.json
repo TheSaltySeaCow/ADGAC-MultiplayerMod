@@ -1,14 +1,6 @@
 {
-    "version": "0.4.6",
-    "notes": "added a fun waterslide",
-    "modFiles": [
-        {
-            "fileName": "MultiplayerMod.dll",
-            "url": "https://google.com/dll"
-        },
-        {
-            "fileName": "multiplayerui.bundle",
-            "url": "https://google.com/dll"
-        }
-    ]
+    "version": "0.4.7",
+    "notes": "added a big waterslide",
+    "dll": "https://google.com/dll",
+    "bundle": "https://google.com/dll"
 }
