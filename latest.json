@@ -1,10 +1,10 @@
 {
-  "version": "0.4.4",
+  "version": "0.4.5",
   "notes": "added a waterslide",
-  "files":
+  "modFiles":
   [
     {
-      "filename": "MultiplayerMod.dll",
+      "fileName": "MultiplayerMod.dll",
       "url": "https://google.com/dll"
     },
     {
