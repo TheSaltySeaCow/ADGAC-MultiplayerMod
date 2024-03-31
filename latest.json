@@ -1,15 +1,14 @@
 {
-  "version": "0.4.5",
-  "notes": "added a waterslide",
-  "modFiles":
-  [
-    {
-      "fileName": "MultiplayerMod.dll",
-      "url": "https://google.com/dll"
-    },
-    {
-      "fileName": "multiplayerui.bundle",
-      "url": "https://google.com/dll"
-    }
-  ]
+    "version": "0.4.6",
+    "notes": "added a fun waterslide",
+    "modFiles": [
+        {
+            "fileName": "MultiplayerMod.dll",
+            "url": "https://google.com/dll"
+        },
+        {
+            "fileName": "multiplayerui.bundle",
+            "url": "https://google.com/dll"
+        }
+    ]
 }
