@@ -1,6 +1,6 @@
 {
-    "version": "0.4.7",
-    "notes": "added a big waterslide",
+    "version": "0.4.8",
+    "notes": "- Sub 4 PB\n- Re-implemented the 'RIP Bug'\n- Removed climbing from the game",
     "dll": "https://google.com/dll",
     "bundle": "https://google.com/dll"
 }
