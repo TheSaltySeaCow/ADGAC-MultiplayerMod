@@ -1,6 +1,6 @@
 {
-    "version": "0.4.4",
+    "version": "0.4.5",
     "notes": "- Sub 4 PB\n- Reimplemented the 'RIP Bug'\n- Removed climbing from the game",
-    "dll": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.4/MultiplayerMod.dll",
-    "bundle": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.4/multiplayerui.bundle"
+    "dll": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.5/MultiplayerMod.dll",
+    "bundle": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.5/multiplayerui.bundle"
 }
