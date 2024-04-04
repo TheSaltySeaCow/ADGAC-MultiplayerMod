@@ -1,6 +1,6 @@
 {
-    "version": "0.4.7",
+    "version": "0.4.8",
     "notes": "- Synced moving objects in the Rome area\n- Fixed a bug related to the player collision option not reflecting its true value\n- Fixed numerous lobby and connection issues",
-    "dll": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.7/MultiplayerMod.dll",
-    "bundle": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.7/multiplayerui.bundle"
+    "dll": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.8/MultiplayerMod.dll",
+    "bundle": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.8/multiplayerui.bundle"
 }
