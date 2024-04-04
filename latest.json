@@ -1,6 +1,6 @@
 {
     "version": "0.4.11",
-    "notes": "- Fixed the connection issue (hopefully)",
+    "notes": "- Fixed the connection issue (hopefully :D)",
     "dll": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.11/MultiplayerMod.dll",
     "bundle": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.11/multiplayerui.bundle"
 }
