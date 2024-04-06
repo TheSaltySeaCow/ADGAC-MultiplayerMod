@@ -1,6 +1,6 @@
 {
-    "version": "0.4.12",
-    "notes": "- Hand distance is now synced",
-    "dll": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.12/MultiplayerMod.dll",
-    "bundle": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.12/multiplayerui.bundle"
+    "version": "0.4.13",
+    "notes": "- Networked player movement rework",
+    "dll": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.13/MultiplayerMod.dll",
+    "bundle": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.13/multiplayerui.bundle"
 }
