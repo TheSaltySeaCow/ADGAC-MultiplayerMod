@@ -1,6 +1,6 @@
 {
-    "version": "0.4.13",
-    "notes": "- Networked player movement rework",
-    "dll": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.13/MultiplayerMod.dll",
-    "bundle": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.13/multiplayerui.bundle"
+    "version": "0.4.15",
+    "notes": "- Added text chat",
+    "dll": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.15/MultiplayerMod.dll",
+    "bundle": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.15/multiplayerui.bundle"
 }
