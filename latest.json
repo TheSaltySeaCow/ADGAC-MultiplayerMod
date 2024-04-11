@@ -1,6 +1,6 @@
 {
-    "version": "0.4.15",
-    "notes": "- Added text chat",
-    "dll": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.15/MultiplayerMod.dll",
+    "version": "0.4.16",
+    "notes": "- Text chat improvements\n- New status text above the disconnect button",
+    "dll": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.16/MultiplayerMod.dll",
     "bundle": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.15/multiplayerui.bundle"
 }
