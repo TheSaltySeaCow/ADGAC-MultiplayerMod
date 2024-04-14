@@ -1,6 +1,6 @@
 {
-    "version": "0.4.16",
-    "notes": "- Text chat improvements\n- New status text above the disconnect button",
-    "dll": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.16/MultiplayerMod.dll",
+    "version": "0.5.0",
+    "notes": "- Added scoreboard\n- Synced water splashes\n- Synced Customization Mod body color and hide cloth\n- Multitude of other improvements/tweaks",
+    "dll": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.5.0/MultiplayerMod.dll",
     "bundle": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.15/multiplayerui.bundle"
 }
