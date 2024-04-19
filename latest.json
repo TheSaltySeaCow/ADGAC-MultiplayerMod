@@ -1,6 +1,6 @@
 {
-    "version": "0.5.0",
+    "version": "0.5.1",
     "notes": "- Added scoreboard\n- Synced water splashes\n- Synced Customization Mod body color and hide cloth\n- Multitude of other improvements/tweaks",
-    "dll": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.5.0/MultiplayerMod.dll",
+    "dll": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.5.1/MultiplayerMod.dll",
     "bundle": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.15/multiplayerui.bundle"
 }
