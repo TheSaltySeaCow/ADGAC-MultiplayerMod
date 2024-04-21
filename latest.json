@@ -1,6 +1,6 @@
 {
-    "version": "0.5.1",
-    "notes": "- Added scoreboard\n- Synced water splashes\n- Synced Customization Mod body color and hide cloth\n- Multitude of other improvements/tweaks",
-    "dll": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.5.1/MultiplayerMod.dll",
+    "version": "0.6.0",
+    "notes": "- Added spectating\n- Improved player grabbing\n- Added an audio cue to the race mode countdown",
+    "dll": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.6.0/MultiplayerMod.dll",
     "bundle": "https://github.com/TheSaltySeaCow/ADGAC-MultiplayerMod/raw/dev/v0.4.15/multiplayerui.bundle"
 }
